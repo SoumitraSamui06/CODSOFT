@@ -6,6 +6,7 @@ This project aims to develop a robust credit card fraud detection system using m
 This project aims to develop a predictive model to identify customers who are likely to churn from a company's services.
 ## Datasets
 Project 1: https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
 Project 2: https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
 
 ## Machine Learning Models
